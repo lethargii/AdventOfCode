@@ -1,0 +1,5 @@
+/home/lethargii/Documents/AdventOfCode/y2016/target/debug/deps/1_2-49541442594c3944.d: src/bin/1_2.rs
+
+/home/lethargii/Documents/AdventOfCode/y2016/target/debug/deps/lib1_2-49541442594c3944.rmeta: src/bin/1_2.rs
+
+src/bin/1_2.rs:

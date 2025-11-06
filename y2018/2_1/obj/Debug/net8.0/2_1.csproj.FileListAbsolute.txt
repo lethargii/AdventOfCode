@@ -1,0 +1,15 @@
+/home/lethargii/Documents/AdventOfCode/y2018/2_1/bin/Debug/net8.0/2_1
+/home/lethargii/Documents/AdventOfCode/y2018/2_1/bin/Debug/net8.0/2_1.deps.json
+/home/lethargii/Documents/AdventOfCode/y2018/2_1/bin/Debug/net8.0/2_1.runtimeconfig.json
+/home/lethargii/Documents/AdventOfCode/y2018/2_1/bin/Debug/net8.0/2_1.dll
+/home/lethargii/Documents/AdventOfCode/y2018/2_1/bin/Debug/net8.0/2_1.pdb
+/home/lethargii/Documents/AdventOfCode/y2018/2_1/obj/Debug/net8.0/2_1.GeneratedMSBuildEditorConfig.editorconfig
+/home/lethargii/Documents/AdventOfCode/y2018/2_1/obj/Debug/net8.0/2_1.AssemblyInfoInputs.cache
+/home/lethargii/Documents/AdventOfCode/y2018/2_1/obj/Debug/net8.0/2_1.AssemblyInfo.cs
+/home/lethargii/Documents/AdventOfCode/y2018/2_1/obj/Debug/net8.0/2_1.csproj.CoreCompileInputs.cache
+/home/lethargii/Documents/AdventOfCode/y2018/2_1/obj/Debug/net8.0/2_1.sourcelink.json
+/home/lethargii/Documents/AdventOfCode/y2018/2_1/obj/Debug/net8.0/2_1.dll
+/home/lethargii/Documents/AdventOfCode/y2018/2_1/obj/Debug/net8.0/refint/2_1.dll
+/home/lethargii/Documents/AdventOfCode/y2018/2_1/obj/Debug/net8.0/2_1.pdb
+/home/lethargii/Documents/AdventOfCode/y2018/2_1/obj/Debug/net8.0/2_1.genruntimeconfig.cache
+/home/lethargii/Documents/AdventOfCode/y2018/2_1/obj/Debug/net8.0/ref/2_1.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ooedp843oUZm8ihvSe95mZa6gXvCvse9hngq8UrP37m0TIK+K8bWt0o2OZR04j9ucsAlq4/cYpk2QtP6eLKnoQ==",
+  "success": true,
+  "projectFilePath": "/home/lethargii/Documents/AdventOfCode/y2018/2_1/2_1.csproj",
+  "expectedPackageFiles": [
+    "/home/lethargii/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.20/microsoft.aspnetcore.app.ref.8.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}
